@@ -1,1 +1,1 @@
-i am trying to learn git commands and this is first file
+i am trying to learn git commands and this is first file.
